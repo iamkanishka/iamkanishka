@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Kanishka Naik. I have strong media and communication professional with a Master in computer Application focused in Computer Science and engineering. I am an experienced developer skilled in C++, Java, Full Stack Development, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
+I am Kanishka Naik. I have strong communication professional with a Bachelor of Technology in Computer Science and engineering. I am an experienced   Full Stack  Developer(MEAN/MERN) with additional Node/Nest, AWS, Firebase, Kafka, GraphQL, Docker, Kubernetes. ⚡ 
+![image](https://user-images.githubusercontent.com/39029787/152687824-68332f88-2bf7-43b6-82fd-0a86769dd89e.png)
+
 
 <!--
 **iamkanishka/iamkanishka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
