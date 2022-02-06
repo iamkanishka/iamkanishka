@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 I am Kanishka Naik. I have strong communication professional with a Bachelor of Technology in Computer Science and engineering. I am an experienced   Full Stack  Developer(MEAN/MERN) with additional Node/Nest, AWS, Firebase, Kafka, GraphQL, Docker, Kubernetes. ⚡ 
-![image](https://user-images.githubusercontent.com/39029787/152688522-8eb6898e-63e3-476d-b902-9e65a65f359d.png)
 
+<p align="center">
+![image](https://user-images.githubusercontent.com/39029787/152688522-8eb6898e-63e3-476d-b902-9e65a65f359d.png)
+</p>
 
 
 <!--
