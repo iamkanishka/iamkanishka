@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kanishka Naik. I have 1.6 year Full-Stack Development(MEAN/MERN) Experience with  Bachelor of Technology in Computer Science and engineering. I have Worked with these Additional Tools with additional Node/Nest, AWS, Firebase, Kafka, GraphQL, Docker, Kubernetes. ⚡ 
+I am Kanishka Naik. I have 1.6 year Full-Stack Development(MEAN/MERN) Experience with  Bachelor of Technology in Computer Science and engineering. I have Worked with these Additional Tools with additional Node/Nest, AWS, Firebase, Kafka, GraphQL, Docker, Kubernetes, NGXS/NGRX ⚡ 
 
 <p align="center">
 <a  target="blank"><img src="https://user-images.githubusercontent.com/39029787/152688522-8eb6898e-63e3-476d-b902-9e65a65f359d.png" width="320" alt="Coder Logo" /></a>
