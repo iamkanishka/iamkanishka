@@ -3,6 +3,10 @@
 <!--
 **iamkanishka/iamkanishka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I am Kanishka Naik. I have strong media and communication professional with a Master in computer Application focused in Computer Science and engineering. I am an experienced developer skilled in C++, Java, Full Stack Development, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
+
+Full Stack Developer with 6+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages.Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
