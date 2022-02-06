@@ -37,6 +37,8 @@ I am Kanishka Naik. I have 1.6 year Full-Stack Development(MEAN/MERN) Experience
 <a href="https://circleci.com/n" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152691096-e99fa152-7021-4ce5-ad6d-775d28d4673a.png" alt="CircleCI" width="40" height="40"/> </a>
  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152691174-a5b2d84d-4cbb-45e0-ae8a-428c78321734.png" alt="Amazon Web Service" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152691200-4493a06e-9661-46d7-9f99-f48efab21cab.png" alt="Github Actions" width="40" height="40"/> </a>
+  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152691261-58e650f0-3919-40c4-a477-a561a6a1635f.png" alt="Kafka" width="40" height="40"/> </a>
+   <a href="https://graphql.org//" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152691316-6ff2e8c5-4ddc-47e7-8fbb-690dfa2cac4a.png" alt="Kafka" width="40" height="40"/> </a>
 </p>
 
 
