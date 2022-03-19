@@ -29,7 +29,7 @@ I am Kanishka Naik. I have 1.6 year Full-Stack Development(MEAN/MERN) Experience
 </a>
 -->
 
-<br /><br />
+<br />
 
 <h3 align="left">Languages and Tools:</h3> 
 
@@ -43,7 +43,7 @@ I am Kanishka Naik. I have 1.6 year Full-Stack Development(MEAN/MERN) Experience
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> &nbsp;
       <a href="https://nestjs.com/" target="_blank"> <img src="https://nestjs.com/img/logo_text.svg" alt="nodejs" width="40" height="40"/> </a>
     
- <br /><br />
+ <br />
  
  
 <p align="left"> 
