@@ -33,14 +33,14 @@ I am Kanishka Naik. I have 1.6 year Full-Stack Development(MEAN/MERN) Experience
 
 <h3 align="left">Languages and Tools:</h3> 
 
-<h4 align="left">Fronteend:</h4>
-  <a href="https://angular.io" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152689611-a0b1b574-b468-4e3c-b1c8-7467e004d35e.png" alt="angularjs" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<h4 align="left">Frontend:</h4>
+  <a href="https://angular.io" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152689611-a0b1b574-b468-4e3c-b1c8-7467e004d35e.png" alt="angularjs" width="40" height="40"/> </a> &nbsp;
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>     
  <br /><br />
  
 <h4 align="left">Backend:</h4>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> &nbsp;
       <a href="https://nestjs.com/" target="_blank"> <img src="https://nestjs.com/img/logo_text.svg" alt="nodejs" width="40" height="40"/> </a>
     
  <br /><br />
