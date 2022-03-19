@@ -31,26 +31,40 @@ I am Kanishka Naik. I have 1.6 year Full-Stack Development(MEAN/MERN) Experience
 
 <br /><br />
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3> 
+
+<h4 align="left">Fronteend:</h4>
+  <a href="https://angular.io" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152689611-a0b1b574-b468-4e3c-b1c8-7467e004d35e.png" alt="angularjs" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>     
+ <br /><br />
+ 
+<h4 align="left">Backend:</h4>
+      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+      <a href="https://nestjs.com/" target="_blank"> <img src="https://nestjs.com/img/logo_text.svg" alt="nodejs" width="40" height="40"/> </a>
+    
+ <br /><br />
+ 
+ 
 <p align="left"> 
   <a href="https://ionicframework.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152690427-7c192bfd-9ebe-440b-b0b2-9690e44db6a8.png" alt="Ionic" width="40" height="40"/> </a> 
   <a href="https://flutter.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152690479-00ca3118-b50d-4d6f-a951-b56c4097f9b9.png" alt="Flutter" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152689611-a0b1b574-b468-4e3c-b1c8-7467e004d35e.png" alt="angularjs" width="40" height="40"/> </a> 
+
   <a href="https://material.angular.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152690736-2eef57fb-8547-4226-aa16-571ca3288439.png" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
+ 
   <a href="https://expressjs.com" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152690665-cadef1e2-ab34-4976-a393-94ef4658f16e.png" alt="express" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152689867-e02f9bd5-e9ed-4536-b4e2-05ccdacce3ce.png" alt="firebase" width="40" height="40"/> </a>  
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://nestjs.com/" target="_blank"> <img src="https://nestjs.com/img/logo_text.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152690816-7ce07721-7ff1-458f-8e1c-03481956c689.png" alt="Docker" width="40" height="40"/> </a>
+
+   <a href="https://www.docker.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152690816-7ce07721-7ff1-458f-8e1c-03481956c689.png" alt="Docker" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152690900-ca5c56e4-c21c-47fe-8145-7efdc9d9ab60.png" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
