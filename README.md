@@ -40,15 +40,16 @@ I am Kanishka Naik. I have 2+ year Full-Stack Development(MEAN) Experience with 
  <br /><br />
  
 <h4 align="left">Backend:</h4>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> &nbsp;
+ <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> &nbsp;
       <a href="https://nestjs.com/" target="_blank"> <img src="https://nestjs.com/img/logo_text.svg" alt="nodejs" width="40" height="40"/> </a>
-    
  <br />
  
- 
+<h4 align="left">Mobile App Developement(Hybrid):</h4>
 <p align="left"> 
   <a href="https://ionicframework.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152690427-7c192bfd-9ebe-440b-b0b2-9690e44db6a8.png" alt="Ionic" width="40" height="40"/> </a> 
   <a href="https://flutter.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152690479-00ca3118-b50d-4d6f-a951-b56c4097f9b9.png" alt="Flutter" width="40" height="40"/> </a>
+  
+  
 
   <a href="https://material.angular.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152690736-2eef57fb-8547-4226-aa16-571ca3288439.png" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
