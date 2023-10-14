@@ -10,7 +10,7 @@ I am Kanishka Naik. I have 3+ years of Full-Stack Development(MEAN/MERN) Experie
 <h3 align="left">Connect with me:</h3>
 
 
-<a href="https://twitter.com/kanishk85020332" target="_blank">
+<a href="https://twitter.com/NaikKanishk1831" target="_blank">
   <img align="left" alt="codeSTACKr | Portfolio" width="36px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />
 </a>
 
