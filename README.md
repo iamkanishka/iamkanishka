@@ -12,7 +12,7 @@ I am Kanishka Naik. I have 3+ years of Full-Stack Development(MEAN/MERN) Experie
 
 
 <a href="https://twitter.com/NaikKanishk1831" target="_blank">
-  <img align="left" alt="codeSTACKr | Portfolio" width="36px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />
+  <img align="left" alt="codeSTACKr | Portfolio" width="36px" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" />
 </a>
 
 <a href="https://www.linkedin.com/in/kanishka-naik-6b5180191" target="_blank">
