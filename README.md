@@ -7,6 +7,7 @@ I am Kanishka Naik. I have 3+ years of Full-Stack Development(MEAN/MERN) Experie
 </p>
 
 
+
 <h3 align="left">Connect with me:</h3>
 
 
@@ -30,6 +31,11 @@ I am Kanishka Naik. I have 3+ years of Full-Stack Development(MEAN/MERN) Experie
 -->
 
 <br />
+
+
+<p align="center">
+![techstack](https://github.com/user-attachments/assets/550664dc-d2fa-455e-9a76-8d237199edac)
+</p>
 
 <h3 align="left">Languages and Tools:</h3> 
 
