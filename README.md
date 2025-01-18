@@ -76,11 +76,7 @@ I am Kanishka Naik. I have 3+ years of Full-Stack Development(MEAN/MERN) Experie
    <a href="https://www.docker.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152690816-7ce07721-7ff1-458f-8e1c-03481956c689.png" alt="Docker" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152690900-ca5c56e4-c21c-47fe-8145-7efdc9d9ab60.png" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://trello.com/en" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152691016-97a19d5a-af36-4dab-8e49-2eefa2c8bbaf.png" alt="Trello" width="40" height="40"/> </a>
 <a href="https://circleci.com/n" target="_blank"> <img src="https://user-images.githubusercontent.com/39029787/152691096-e99fa152-7021-4ce5-ad6d-775d28d4673a.png" alt="CircleCI" width="40" height="40"/> </a>
