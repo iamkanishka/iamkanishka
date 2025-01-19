@@ -31,11 +31,14 @@ I am Kanishka Naik. I have 3+ years of Full-Stack Development(MEAN/MERN) Experie
 -->
 
 <br />
+<br />
 
 <h3 align="left">Tech Stack:</h3> 
 
+<br />
+
 <p align="center">
-<a  target="blank"><img src="https://kanishkanaik.dev/assets/techstack.png" width="320" alt="Coder Logo" /></a>
+<a  target="blank"><img src="https://kanishkanaik.dev/assets/techstack.png" width="100%" height="100%" alt="Coder Logo" /></a>
 </p>
 
 
