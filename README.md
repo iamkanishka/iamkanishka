@@ -23,6 +23,10 @@ I am Kanishka Naik. I have 3+ years of Full-Stack Development(MEAN/MERN) Experie
   <img align="left" alt="codeSTACKr | Facebook" width="36px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
 </a>
 
+<a href="https://medium.com/@kanishkanaik97" target="_blank">
+  <img align="left" alt="codeSTACKr | Medium" width="36px" src="https://img.icons8.com/?size=100&id=35858&format=png&color=000000" />
+</a>
+
 <!--
 
 <a href="https://tarunaggarwal.tk" target="_blank">
