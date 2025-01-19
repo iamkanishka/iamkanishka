@@ -1,6 +1,27 @@
-### Hi there 👋
+### Hi there, Kanishka Naik here 👋
 
-I am Kanishka Naik. I have 3+ years of Full-Stack Development(MEAN/MERN) Experience with  a Bachelor of Technology in Computer Science and engineering. I have worked with these Additional Tools - Nestjs, AWS, Firebase, Kafka, GraphQL, Docker, Kubernetes, NGXS/NGRX ⚡ 
+I am Kanishka Naik. I have 5+ years Crafting innovative solutions and pushing
+the boundaries of technology, I am a seasoned software developer with 4+ years
+of diverse experience across the tech stack. My expertise spans a wide array of
+technologies including <br />
+<b>Frontend Development:</b> Proficient in HTML, CSS, JavaScript, and
+TypeScript, with a deep understanding of modern framework Angular, <br />
+<b>Backend Development </b> : Experienced in building robust backend systems
+using Node.js, Nest.js, and Elixir with Phoenix, focusing on scalability and
+performance, <br />
+<b> Microservices Architecture: </b> Skilled in designing and implementing
+microservices-based architectures to create modular and maintainable systems,
+<br /><b> Containerization and Orchestration: </b>Knowledgeable in deploying
+applications using Kubernetes (K8s), ensuring seamless scalability and
+reliability, <br />
+<b>Polyglot Programming :</b>Versatile in multiple programming languages
+including Rust and Go, adept at selecting the right tool for the job,<br />
+<b> Development Tools:</b> Experienced in utilizing Nx for monorepo management,
+streamlining development workflows and improving codebase maintainability.<br />
+<b> Data Management: </b>From MongoDB, PostgreSQL, and MySQL to Firebase, I am
+adept at managing diverse data environments, optimizing performance and
+reliability.
+       
 
 <p align="center">
 <a  target="blank"><img src="https://user-images.githubusercontent.com/39029787/152688522-8eb6898e-63e3-476d-b902-9e65a65f359d.png" width="320" alt="Coder Logo" /></a>
