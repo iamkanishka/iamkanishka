@@ -1,8 +1,7 @@
 ### Hi there, Kanishka Naik here 👋
 
 I am Kanishka Naik. I have 5+ years Crafting innovative solutions and pushing
-the boundaries of technology, I am a seasoned software developer with 4+ years
-of diverse experience across the tech stack. My expertise spans a wide array of
+the boundaries of technology, I am a seasoned software developer with diverse experience across the tech stack. My expertise spans a wide array of
 technologies including <br />
 <b>Frontend Development:</b> Proficient in HTML, CSS, JavaScript, and
 TypeScript, with a deep understanding of modern framework Angular, <br />
