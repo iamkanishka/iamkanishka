@@ -1,121 +1,81 @@
-<div align="center">
+<h1 align="center">Kanishka Naik</h1>
 
-```
-██╗  ██╗ █████╗ ███╗   ██╗██╗███████╗██╗  ██╗██╗  ██╗ █████╗
-██║ ██╔╝██╔══██╗████╗  ██║██║██╔════╝██║  ██║██║ ██╔╝██╔══██╗
-█████╔╝ ███████║██╔██╗ ██║██║███████╗███████║█████╔╝ ███████║
-██╔═██╗ ██╔══██║██║╚██╗██║██║╚════██║██╔══██║██╔═██╗ ██╔══██║
-██║  ██╗██║  ██║██║ ╚████║██║███████║██║  ██║██║  ██╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<p align="center">
+  <strong>Software Engineer & Open-Source Maintainer</strong><br/>
+  JS/TS · Elixir · Go · Solidity<br/>
+  Exploring payments, ledgers, and distributed systems<br/>
+  Astrophile · Tech Blogger
+</p>
 
-### Full Stack Engineer · Distributed Systems · Scalable Infrastructure
-
-*I don't just ship features — I engineer systems that scale.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yoursite.com)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=hashnode&logoColor=white" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
-## `$ whoami`
+## About
 
-5+ years engineering **production-grade systems** across the full stack. I live at the intersection of backend performance, distributed architecture, and cloud-native infrastructure — building platforms designed to serve millions without breaking a sweat.
+I'm a Full Stack Engineer with 5+ years of experience building production-grade systems designed to scale. My work sits at the intersection of backend performance, distributed architecture, and cloud-native infrastructure — with a growing focus on **payments**, **financial ledgers**, and **blockchain systems**.
 
-```yaml
-name:       Kanishka Naik
-role:       Full Stack Engineer
-focus:      Distributed Systems · Cloud Infrastructure · Scalable Backends
-philosophy: Build for scale. Design for failure. Optimize for clarity.
-status:     Always building. Always learning. Always scaling.
-```
+I care deeply about writing software that is not only functional, but maintainable, observable, and resilient under pressure.
+
+Beyond engineering, I contribute to open-source, write about distributed systems and infrastructure on my blog, and spend my nights thinking about the universe.
 
 ---
 
-## `$ cat expertise.json`
+## What I Work With
 
-```json
-{
-  "backend": {
-    "specialties": ["High-performance REST & GraphQL APIs", "Microservices architecture",
-                    "Event-driven systems with Kafka", "Domain-Driven Design (DDD)",
-                    "Clean Architecture", "Observability & fault tolerance"],
-    "stack":       ["Node.js", "NestJS", "Express", "Go", "Elixir (Phoenix)"]
-  },
-  "frontend": {
-    "specialties": ["Modern Angular architecture", "TypeScript-first development",
-                    "Reactive state management (NgRx / NGXS)", "UI performance optimization"],
-    "stack":       ["Angular", "TypeScript", "HTML5", "CSS3 / Sass", "Material UI"]
-  },
-  "infrastructure": {
-    "specialties": ["Kubernetes orchestration", "Container-native deployments",
-                    "CI/CD pipeline design", "AWS cloud architecture"],
-    "stack":       ["Docker", "Kubernetes", "Kafka", "GitHub Actions", "CircleCI", "AWS"]
-  },
-  "data": {
-    "databases":  ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
-    "caching":    ["Redis"]
-  }
-}
-```
+**Languages**
+`TypeScript` · `JavaScript` · `Elixir` · `Go` · `Solidity`
+
+**Backend**
+`Node.js` · `NestJS` · `Express` · `Phoenix (Elixir)`
+
+**Frontend**
+`Angular` · `NgRx` · `NGXS` · `Sass` · `Material UI`
+
+**Databases & Caching**
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Firebase`
+
+**Infrastructure & DevOps**
+`Docker` · `Kubernetes` · `Kafka` · `AWS` · `GitHub Actions` · `CircleCI`
+
+**Architecture Patterns**
+`Microservices` · `Event-Driven Systems` · `Domain-Driven Design` · `Clean Architecture` · `Nx Monorepos`
 
 ---
 
-## `$ ls -la tech-stack/`
+## Focus Areas
 
-| Layer | Technologies |
-|---|---|
-| **Languages** | `TypeScript` `JavaScript` `Go` `Solidity` |
-| **Backend** | `NestJS` `Node.js` `Express` `Elixir / Phoenix` |
-| **Frontend** | `Angular` `NgRx` `NGXS` `Sass` `Material UI` |
-| **Databases** | `PostgreSQL` `MySQL` `MongoDB` `Firebase` |
-| **Caching** | `Redis` |
-| **Messaging** | `Apache Kafka` |
-| **DevOps** | `Docker` `Kubernetes` `AWS` `GitHub Actions` `CircleCI` |
-| **Tooling** | `Nx Monorepo` `Git` `Postman` `VS Code` |
-| **Mobile** | `NativeScript` |
+- **Payments & Ledgers** — Designing reliable, audit-ready financial systems with strong consistency guarantees
+- **Distributed Systems** — Architecting services that scale horizontally and degrade gracefully under load
+- **Open Source** — Maintaining libraries and tooling that improve developer experience across the ecosystem
+- **Blockchain & Web3** — Smart contract development in Solidity; exploring decentralised financial primitives
+- **Technical Writing** — Breaking down complex systems thinking into accessible, practical content
 
 ---
 
-## `$ cat architectural-principles.md`
+## Engineering Principles
 
-```
-✦ Design for horizontal scalability from day one
-✦ Break monoliths into resilient, independently deployable services  
-✦ Orchestrate workflows through event-driven patterns
-✦ Optimize at the system level, not just the code level
-✦ Build graceful degradation and fault recovery into the foundation
-✦ Ship architecture that other engineers love to work in
-```
+- Design for scale from the start — retrofitting is expensive
+- Build systems that fail gracefully, not catastrophically
+- Observability is not optional in production
+- Good architecture enables fast teams, not just fast software
+- Write code for the engineer who maintains it next
 
 ---
 
-## `$ top` — What Drives Me
+## Writing & Open Source
 
-```
-PID   PRIORITY  PROCESS
-───   ────────  ──────────────────────────────────────────
- 1    [highest] Solving hard distributed systems problems
- 2    [high   ] Building platforms that serve at scale
- 3    [high   ] Crafting reliable, observable production systems
- 4    [normal ] Elevating developer experience through good design
- 5    [normal ] Continuous mastery — distributed systems never stop evolving
-```
+I write about distributed systems, backend architecture, and engineering trade-offs. If you find something useful, a ⭐ on the repo goes a long way.
+
+> *Always building. Always learning. Always scaling.*
 
 ---
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════╗
-║  Build for scale.   Design for failure.  ║
-║  Optimize for clarity. Automate all.     ║
-╚══════════════════════════════════════════╝
-```
-
-*Open to challenging problems involving large-scale systems, distributed architecture, and high-impact engineering.*
-
-</div>
+<p align="center">
+  <sub>Open to collaborations on open-source projects, technical writing, and challenging engineering problems.</sub>
+</p>
