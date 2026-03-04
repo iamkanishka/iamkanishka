@@ -8,10 +8,14 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=hashnode&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kanishka-naik-6b5180191/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/iamkanishka"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/@kanishkanaik97"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
+  <a href="https://bsky.app/profile/kanishkanaik.dev"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" /></a>
+  <a href="https://x.com/NaikKanishk1831"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://mastodon.social/@kanishkanaik"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/~atomlessmind"><img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
+  <a href="https://hex.pm/users/kanishkanaik"><img src="https://img.shields.io/badge/Hex-6828B2?style=flat-square&logo=elixir&logoColor=white" /></a>
 </p>
 
 ---
@@ -77,5 +81,4 @@ I write about distributed systems, backend architecture, and engineering trade-o
 ---
 
 <p align="center">
-  <sub>Open to collaborations on open-source projects, technical writing, and challenging engineering problems.</sub>
-</p>
+  <sub>Open to collaborations on open-source projects, technical writing, and challeng
