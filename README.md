@@ -1,134 +1,121 @@
-<h1 align="center">Hi 👋, I'm Kanishka Naik</h1>
-
-<h3 align="center">
-Full Stack Engineer • Distributed Systems Architect • Scalable Infrastructure Specialist
-</h3>
-
-<p align="center">
-  <b>I design and build high-performance systems that scale to millions of users.</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-High%20Performance-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Cloud%20Native-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Scalability-red?style=for-the-badge" />
-</p>
-
----
-
-# 🚀 About Me
-
-I’m a Full Stack Engineer with 5+ years of experience architecting and delivering scalable, production-grade systems.
-
-I specialize in:
-
-- ⚡ Designing resilient backend systems  
-- 🧩 Architecting distributed & event-driven systems  
-- ☁️ Building cloud-native infrastructure  
-- 📦 Containerized deployments at scale  
-- 🏗 Creating maintainable, large-scale codebases  
-
-> I don’t just ship features — I engineer systems that scale.
-
----
-
-# 🧠 Core Strengths
-
-## ⚙️ Backend & Distributed Systems
-- High-performance API design (REST & GraphQL)
-- Microservices architecture
-- Event-driven systems (Kafka)
-- Domain-Driven Design (DDD)
-- Clean Architecture
-- Monorepo strategy (Nx)
-- Observability & fault tolerance
-
----
-
-## 🖥️ Frontend Engineering
-- Modern Angular architecture
-- TypeScript-first development
-- Reactive state management (NgRx / NGXS)
-- Scalable component systems
-- UI performance optimization
-
----
-
-## ☁️ Cloud & Infrastructure
-- Docker-based containerization
-- Kubernetes orchestration
-- AWS cloud deployments
-- CI/CD pipelines (GitHub Actions, CircleCI)
-- Production-grade DevOps practices
-
----
-
-## 🗄️ Databases & Caching
-- PostgreSQL / MySQL schema design
-- MongoDB modeling
-- Redis caching & performance strategies
-- Firebase integrations
-
----
-
-# 💻 Technology Stack
-
-### 🧩 Languages
-`JavaScript` • `TypeScript` • `Go` • `Solidity`
-
-### ⚙ Backend
-`Node.js` • `NestJS` • `Express` • `Elixir (Phoenix)`
-
-### 🖥 Frontend
-`Angular` • `HTML5` • `CSS3` • `Sass` • `Bootstrap` • `Material UI`
-
-### ☁ DevOps & Tooling
-`Docker` • `Kubernetes` • `Kafka` • `Git` • `Postman` • `VS Code`
-
----
-
-# 🏗 Architectural Focus
-
-✔ Designing for horizontal scalability  
-✔ Breaking monoliths into resilient microservices  
-✔ Event-driven workflow orchestration  
-✔ System-level performance optimization  
-✔ Graceful degradation & fault recovery  
-✔ Developer-friendly architecture  
-
----
-
-# 📊 Engineering Philosophy
-
 <div align="center">
 
-### Build for scale.  
-### Design for failure.  
-### Optimize for clarity.  
-### Automate everything.  
-### Deliver with impact.
+```
+██╗  ██╗ █████╗ ███╗   ██╗██╗███████╗██╗  ██╗██╗  ██╗ █████╗
+██║ ██╔╝██╔══██╗████╗  ██║██║██╔════╝██║  ██║██║ ██╔╝██╔══██╗
+█████╔╝ ███████║██╔██╗ ██║██║███████╗███████║█████╔╝ ███████║
+██╔═██╗ ██╔══██║██║╚██╗██║██║╚════██║██╔══██║██╔═██╗ ██╔══██║
+██║  ██╗██║  ██║██║ ╚████║██║███████║██║  ██║██║  ██╗██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+### Full Stack Engineer · Distributed Systems · Scalable Infrastructure
+
+*I don't just ship features — I engineer systems that scale.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yoursite.com)
 
 </div>
 
 ---
 
-# 📱 Mobile Experience
+## `$ whoami`
 
-Hybrid mobile development using **NativeScript**.
+5+ years engineering **production-grade systems** across the full stack. I live at the intersection of backend performance, distributed architecture, and cloud-native infrastructure — building platforms designed to serve millions without breaking a sweat.
 
----
-
-# 🎯 What Drives Me
-
-- Solving complex architectural challenges  
-- Building platforms that serve millions  
-- Engineering reliable production systems  
-- Improving developer experience  
-- Continuous mastery of distributed systems  
+```yaml
+name:       Kanishka Naik
+role:       Full Stack Engineer
+focus:      Distributed Systems · Cloud Infrastructure · Scalable Backends
+philosophy: Build for scale. Design for failure. Optimize for clarity.
+status:     Always building. Always learning. Always scaling.
+```
 
 ---
 
-<p align="center">
-  <b>Always building. Always learning. Always scaling.</b>
-</p>
+## `$ cat expertise.json`
+
+```json
+{
+  "backend": {
+    "specialties": ["High-performance REST & GraphQL APIs", "Microservices architecture",
+                    "Event-driven systems with Kafka", "Domain-Driven Design (DDD)",
+                    "Clean Architecture", "Observability & fault tolerance"],
+    "stack":       ["Node.js", "NestJS", "Express", "Go", "Elixir (Phoenix)"]
+  },
+  "frontend": {
+    "specialties": ["Modern Angular architecture", "TypeScript-first development",
+                    "Reactive state management (NgRx / NGXS)", "UI performance optimization"],
+    "stack":       ["Angular", "TypeScript", "HTML5", "CSS3 / Sass", "Material UI"]
+  },
+  "infrastructure": {
+    "specialties": ["Kubernetes orchestration", "Container-native deployments",
+                    "CI/CD pipeline design", "AWS cloud architecture"],
+    "stack":       ["Docker", "Kubernetes", "Kafka", "GitHub Actions", "CircleCI", "AWS"]
+  },
+  "data": {
+    "databases":  ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
+    "caching":    ["Redis"]
+  }
+}
+```
+
+---
+
+## `$ ls -la tech-stack/`
+
+| Layer | Technologies |
+|---|---|
+| **Languages** | `TypeScript` `JavaScript` `Go` `Solidity` |
+| **Backend** | `NestJS` `Node.js` `Express` `Elixir / Phoenix` |
+| **Frontend** | `Angular` `NgRx` `NGXS` `Sass` `Material UI` |
+| **Databases** | `PostgreSQL` `MySQL` `MongoDB` `Firebase` |
+| **Caching** | `Redis` |
+| **Messaging** | `Apache Kafka` |
+| **DevOps** | `Docker` `Kubernetes` `AWS` `GitHub Actions` `CircleCI` |
+| **Tooling** | `Nx Monorepo` `Git` `Postman` `VS Code` |
+| **Mobile** | `NativeScript` |
+
+---
+
+## `$ cat architectural-principles.md`
+
+```
+✦ Design for horizontal scalability from day one
+✦ Break monoliths into resilient, independently deployable services  
+✦ Orchestrate workflows through event-driven patterns
+✦ Optimize at the system level, not just the code level
+✦ Build graceful degradation and fault recovery into the foundation
+✦ Ship architecture that other engineers love to work in
+```
+
+---
+
+## `$ top` — What Drives Me
+
+```
+PID   PRIORITY  PROCESS
+───   ────────  ──────────────────────────────────────────
+ 1    [highest] Solving hard distributed systems problems
+ 2    [high   ] Building platforms that serve at scale
+ 3    [high   ] Crafting reliable, observable production systems
+ 4    [normal ] Elevating developer experience through good design
+ 5    [normal ] Continuous mastery — distributed systems never stop evolving
+```
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════╗
+║  Build for scale.   Design for failure.  ║
+║  Optimize for clarity. Automate all.     ║
+╚══════════════════════════════════════════╝
+```
+
+*Open to challenging problems involving large-scale systems, distributed architecture, and high-impact engineering.*
+
+</div>
