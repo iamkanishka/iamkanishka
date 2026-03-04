@@ -79,6 +79,3 @@ I write about distributed systems, backend architecture, and engineering trade-o
 > *Always building. Always learning. Always scaling.*
 
 ---
-
-<p align="center">
-  <sub>Open to collaborations on open-source projects, technical writing, and challeng
