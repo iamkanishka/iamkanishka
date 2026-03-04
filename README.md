@@ -1,123 +1,110 @@
 <h1 align="center">Hi 👋, I'm Kanishka Naik</h1>
-<h3 align="center">Full Stack Engineer • Distributed Systems Enthusiast • Scalable Architecture Specialist</h3>
+<h3 align="center">Full Stack Engineer • Distributed Systems Architect • Scalable Infrastructure Specialist</h3>
 
 <p align="center">
-Crafting scalable systems, high-performance backends, and elegant frontends with modern technologies.
+I design and build high-performance systems that scale to millions of users.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a seasoned Full Stack Developer with 5+ years of experience designing and building scalable, production-grade systems.
+I’m a Full Stack Engineer with 5+ years of experience architecting and delivering scalable, production-grade systems.
+
+My expertise lies in designing resilient backends, distributed systems, and cloud-native architectures that prioritize performance, reliability, and long-term maintainability.
+
+I don’t just ship features — I design systems that scale.
+
+---
+
+## 🧠 Core Strengths
+
+### ⚙️ Backend & Distributed Systems
+- High-performance API design (REST & GraphQL)
+- Microservices & event-driven architecture
+- Domain-Driven Design (DDD)
+- Clean Architecture principles
+- Message-driven systems with Kafka
+- Scalable monorepo design (Nx)
+- Observability & fault-tolerant systems
+
+### 🖥️ Frontend Engineering
+- Modern Angular architecture
+- TypeScript-first development
+- Reactive state management (NgRx / NGXS)
+- Performance-optimized UI systems
+- Scalable component architecture
+
+### ☁️ Cloud & Infrastructure
+- Containerized systems (Docker)
+- Kubernetes orchestration
+- AWS cloud architecture
+- CI/CD automation (GitHub Actions, CircleCI)
+- Production-grade deployment strategies
+
+### 🗄️ Data & Caching
+- PostgreSQL / MySQL relational design
+- MongoDB document modeling
+- Redis caching strategies
+- Firebase integrations
+
+---
+
+## 💻 Technology Stack
+
+**Languages:**  
+JavaScript • TypeScript • Go • Solidity
+
+**Backend:**  
+Node.js • NestJS • Express • Elixir (Phoenix)
+
+**Frontend:**  
+Angular • HTML5 • CSS3 • Sass • Bootstrap • Material UI
+
+**DevOps & Tooling:**  
+Docker • Kubernetes • Kafka • Git • Postman • VS Code
+
+---
+
+## 🏗️ Architectural Focus
 
 I specialize in:
 
-- ⚡ High-performance backend systems  
-- 🧩 Microservices & distributed architecture  
-- ☁️ Cloud-native deployments  
-- 📦 Containerized infrastructure  
-- 🔄 Event-driven systems  
-- 🏗 Monorepo & scalable codebase design  
-
-I focus on writing clean, maintainable, and production-ready code that scales to millions of users.
+- Designing systems for horizontal scalability  
+- Breaking monoliths into resilient microservices  
+- Implementing event-driven workflows  
+- Building maintainable large-scale codebases  
+- Optimizing performance at both system and query level  
+- Designing for failure and graceful degradation  
 
 ---
 
-## 🧠 Core Expertise
+## 📊 Engineering Principles
 
-### 🖥 Frontend Development
-- HTML5
-- CSS3 / Sass
-- JavaScript (ES6+)
-- TypeScript
-- Angular
-- NgRx / NGXS
-- Bootstrap
-- Material UI
-
-### ⚙ Backend Development
-- Node.js
-- NestJS
-- Express.js
-- Elixir (Phoenix)
-- REST APIs
-- GraphQL
-
-### 🏗 Architecture & Systems
-- Microservices Architecture
-- Event-Driven Systems
-- Domain-Driven Design (DDD)
-- Clean Architecture
-- Monorepo Architecture (Nx)
-
-### 📦 DevOps & Cloud
-- Docker
-- Kubernetes
-- CI/CD Pipelines
-- AWS
-- GitHub Actions
-- CircleCI
-
-### 🗄 Databases & Caching
-- MongoDB
-- PostgreSQL
-- MySQL
-- Firebase
-- Redis
-
-### 💻 Programming Languages
-- JavaScript
-- TypeScript
-- Go
-- Rust
-- C
-- C++
-
----
-
-## 📱 Mobile Development (Hybrid)
-
-- Ionic
-- Flutter
-
----
-
-## 🛠 Development Tools
-
-- Git
-- Postman
-- VS Code
-- Kafka
-- Linux
-
----
-
-## 🎯 What I Care About
-
-- Writing scalable systems that handle millions of users
-- Clean code & maintainable architecture
-- Performance optimization
-- Developer experience
-- System reliability & observability
-
----
-
-## 📊 Engineering Philosophy
-
-> “Build systems that scale.  
+> Build for scale.  
 > Design for failure.  
 > Optimize for clarity.  
-> Deliver with impact.”
+> Automate everything.  
+> Deliver with impact.
 
 ---
 
-## ⚡ Fun Fact
+## 📱 Mobile Experience
 
-I enjoy solving complex architectural problems and turning them into simple, elegant systems.
+Hybrid mobile development using NativeScript.
+
+---
+
+## 🎯 What Drives Me
+
+- Turning complex system problems into elegant solutions  
+- Building platforms that support millions of users  
+- Creating developer-friendly architectures  
+- Continuously learning distributed systems theory  
+- Shipping reliable, observable systems in production  
 
 ---
 
 <p align="center">
-  <i>Always building. Always learning. Always scaling.</i>
+  <b>Always building. Always learning. Always scaling.</b>
 </p>
