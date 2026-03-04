@@ -1,107 +1,131 @@
 <h1 align="center">Hi 👋, I'm Kanishka Naik</h1>
-<h3 align="center">Full Stack Engineer • Distributed Systems Architect • Scalable Infrastructure Specialist</h3>
+
+<h3 align="center">
+Full Stack Engineer • Distributed Systems Architect • Scalable Infrastructure Specialist
+</h3>
 
 <p align="center">
-I design and build high-performance systems that scale to millions of users.
+  <b>I design and build high-performance systems that scale to millions of users.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-High%20Performance-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Cloud%20Native-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Scalability-red?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 I’m a Full Stack Engineer with 5+ years of experience architecting and delivering scalable, production-grade systems.
 
-My expertise lies in designing resilient backends, distributed systems, and cloud-native architectures that prioritize performance, reliability, and long-term maintainability.
+I specialize in:
 
-I don’t just ship features — I design systems that scale.
+- ⚡ Designing resilient backend systems  
+- 🧩 Architecting distributed & event-driven systems  
+- ☁️ Building cloud-native infrastructure  
+- 📦 Containerized deployments at scale  
+- 🏗 Creating maintainable, large-scale codebases  
+
+> I don’t just ship features — I engineer systems that scale.
 
 ---
 
-## 🧠 Core Strengths
+# 🧠 Core Strengths
 
-### ⚙️ Backend & Distributed Systems
+## ⚙️ Backend & Distributed Systems
 - High-performance API design (REST & GraphQL)
-- Microservices & event-driven architecture
+- Microservices architecture
+- Event-driven systems (Kafka)
 - Domain-Driven Design (DDD)
-- Clean Architecture principles
-- Message-driven systems with Kafka
-- Scalable monorepo design (Nx)
-- Observability & fault-tolerant systems
+- Clean Architecture
+- Monorepo strategy (Nx)
+- Observability & fault tolerance
 
-### 🖥️ Frontend Engineering
+---
+
+## 🖥️ Frontend Engineering
 - Modern Angular architecture
 - TypeScript-first development
 - Reactive state management (NgRx / NGXS)
-- Performance-optimized UI systems
-- Scalable component architecture
+- Scalable component systems
+- UI performance optimization
 
-### ☁️ Cloud & Infrastructure
-- Containerized systems (Docker)
+---
+
+## ☁️ Cloud & Infrastructure
+- Docker-based containerization
 - Kubernetes orchestration
-- AWS cloud architecture
-- CI/CD automation (GitHub Actions, CircleCI)
-- Production-grade deployment strategies
+- AWS cloud deployments
+- CI/CD pipelines (GitHub Actions, CircleCI)
+- Production-grade DevOps practices
 
-### 🗄️ Data & Caching
-- PostgreSQL / MySQL relational design
-- MongoDB document modeling
-- Redis caching strategies
+---
+
+## 🗄️ Databases & Caching
+- PostgreSQL / MySQL schema design
+- MongoDB modeling
+- Redis caching & performance strategies
 - Firebase integrations
 
 ---
 
-## 💻 Technology Stack
+# 💻 Technology Stack
 
-**Languages:**  
-JavaScript • TypeScript • Go • Solidity
+### 🧩 Languages
+`JavaScript` • `TypeScript` • `Go` • `Solidity`
 
-**Backend:**  
-Node.js • NestJS • Express • Elixir (Phoenix)
+### ⚙ Backend
+`Node.js` • `NestJS` • `Express` • `Elixir (Phoenix)`
 
-**Frontend:**  
-Angular • HTML5 • CSS3 • Sass • Bootstrap • Material UI
+### 🖥 Frontend
+`Angular` • `HTML5` • `CSS3` • `Sass` • `Bootstrap` • `Material UI`
 
-**DevOps & Tooling:**  
-Docker • Kubernetes • Kafka • Git • Postman • VS Code
-
----
-
-## 🏗️ Architectural Focus
-
-I specialize in:
-
-- Designing systems for horizontal scalability  
-- Breaking monoliths into resilient microservices  
-- Implementing event-driven workflows  
-- Building maintainable large-scale codebases  
-- Optimizing performance at both system and query level  
-- Designing for failure and graceful degradation  
+### ☁ DevOps & Tooling
+`Docker` • `Kubernetes` • `Kafka` • `Git` • `Postman` • `VS Code`
 
 ---
 
-## 📊 Engineering Principles
+# 🏗 Architectural Focus
 
-> Build for scale.  
-> Design for failure.  
-> Optimize for clarity.  
-> Automate everything.  
-> Deliver with impact.
-
----
-
-## 📱 Mobile Experience
-
-Hybrid mobile development using NativeScript.
+✔ Designing for horizontal scalability  
+✔ Breaking monoliths into resilient microservices  
+✔ Event-driven workflow orchestration  
+✔ System-level performance optimization  
+✔ Graceful degradation & fault recovery  
+✔ Developer-friendly architecture  
 
 ---
 
-## 🎯 What Drives Me
+# 📊 Engineering Philosophy
 
-- Turning complex system problems into elegant solutions  
-- Building platforms that support millions of users  
-- Creating developer-friendly architectures  
-- Continuously learning distributed systems theory  
-- Shipping reliable, observable systems in production  
+<div align="center">
+
+### Build for scale.  
+### Design for failure.  
+### Optimize for clarity.  
+### Automate everything.  
+### Deliver with impact.
+
+</div>
+
+---
+
+# 📱 Mobile Experience
+
+Hybrid mobile development using **NativeScript**.
+
+---
+
+# 🎯 What Drives Me
+
+- Solving complex architectural challenges  
+- Building platforms that serve millions  
+- Engineering reliable production systems  
+- Improving developer experience  
+- Continuous mastery of distributed systems  
 
 ---
 
