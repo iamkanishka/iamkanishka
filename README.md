@@ -5,7 +5,7 @@
   JS/TS · Elixir · Go · Solidity<br/>
   Exploring payments, ledgers, and distributed systems<br/>
   Astrophile · Tech Blogger
-  <a href="https://kanishkanaik.dev/">Kanishka Naik</a>
+ >
 </p>
 
 <p align="center">
