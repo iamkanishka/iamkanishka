@@ -1,182 +1,498 @@
-<div align="center">
+<canvas id="sky"></canvas>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
+<div class="page">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:1a0b2e,45:6b21a8,70:be185d,100:000000&height=280&section=header&text=Kanishka%20Naik&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Open-Source%20Maintainer%20%7C%20Astrophile&descAlignY=55&descSize=16" width="100%"/>
+  <header class="hero">
+    <p class="eyebrow">✦ profile</p>
+    <h1>Kanishka Naik</h1>
+    <p class="role">Software Engineer &amp; Open-Source Maintainer</p>
+    <p class="stack-line">JS/TS · Elixir · Go · Solidity</p>
+    <p class="stack-line muted">Exploring payments, ledgers, and distributed systems</p>
+    <p class="astro">Astrophile · Tech Blogger</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D946A8&center=true&vCenter=true&width=600&lines=Exploring+payments%2C+ledgers+%26+distributed+systems;JS%2FTS+%C2%B7+Elixir+%C2%B7+Go+%C2%B7+Solidity;Building+for+scale%2C+one+commit+at+a+time;Always+building.+Always+learning.+Always+scaling." alt="Typing SVG" />
+    <a class="site-link" href="https://kanishkanaik.dev/" target="_blank" rel="noopener">kanishkanaik.dev →</a>
 
-<br/>
+    <nav class="social">
+      <a href="https://www.linkedin.com/in/kanishka-naik-6b5180191/" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://github.com/iamkanishka" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://medium.com/@kanishkanaik97" target="_blank" rel="noopener">Medium</a>
+      <a href="https://bsky.app/profile/kanishkanaik.dev" target="_blank" rel="noopener">Bluesky</a>
+      <a href="https://x.com/NaikKanishk1831" target="_blank" rel="noopener">X</a>
+      <a href="https://mastodon.social/@kanishkanaik" target="_blank" rel="noopener">Mastodon</a>
+      <a href="https://www.npmjs.com/~atomlessmind" target="_blank" rel="noopener">NPM</a>
+      <a href="https://hex.pm/users/kanishkanaik" target="_blank" rel="noopener">Hex</a>
+    </nav>
+  </header>
 
-<a target="_blank" href="https://kanishkanaik.dev/">
-  <img src="https://img.shields.io/badge/🌌_kanishkanaik.dev-1a0b2e?style=for-the-badge&labelColor=6b21a8" />
-</a>
+  <div class="divider">✦</div>
 
-<br/><br/>
+  <section>
+    <h2>About</h2>
+    <p>
+      I'm a Full Stack Engineer with 5+ years of experience building production-grade
+      systems designed to scale. My work sits at the intersection of backend performance,
+      distributed architecture, and cloud-native infrastructure — with a growing focus on
+      <strong>payments</strong>, <strong>financial ledgers</strong>, and <strong>blockchain systems</strong>.
+    </p>
+    <p>
+      I care deeply about writing software that is not only functional, but maintainable,
+      observable, and resilient under pressure. Beyond engineering, I contribute to
+      open-source, write about distributed systems and infrastructure on my blog, and
+      spend my nights thinking about the universe.
+    </p>
+  </section>
 
-<a href="https://www.linkedin.com/in/kanishka-naik-6b5180191/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a target="_blank" href="https://github.com/iamkanishka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a target="_blank" href="https://medium.com/@kanishkanaik97"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a target="_blank" href="https://bsky.app/profile/kanishkanaik.dev"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
-<a target="_blank" href="https://x.com/NaikKanishk1831"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://mastodon.social/@kanishkanaik"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
-<a target="_blank" href="https://www.npmjs.com/~atomlessmind"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
-<a target="_blank" href="https://hex.pm/users/kanishkanaik"><img src="https://img.shields.io/badge/Hex-6828B2?style=for-the-badge&logo=elixir&logoColor=white" /></a>
+  <div class="divider">✦</div>
 
-</div>
+  <section>
+    <h2>What I Work With</h2>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+    <div class="stackgrid">
+      <div class="stackcol">
+        <h3>Languages</h3>
+        <div class="pills">
+          <span>TypeScript</span><span>JavaScript</span><span>Elixir</span><span>Go</span><span>Solidity</span>
+        </div>
+      </div>
+      <div class="stackcol">
+        <h3>Backend</h3>
+        <div class="pills">
+          <span>Node.js</span><span>NestJS</span><span>Express</span><span>Phoenix (Elixir)</span>
+        </div>
+      </div>
+      <div class="stackcol">
+        <h3>Frontend</h3>
+        <div class="pills">
+          <span>Angular</span><span>NgRx</span><span>NGXS</span><span>Sass</span><span>Material UI</span>
+        </div>
+      </div>
+      <div class="stackcol">
+        <h3>Databases &amp; Caching</h3>
+        <div class="pills">
+          <span>PostgreSQL</span><span>MySQL</span><span>MongoDB</span><span>Redis</span><span>Firebase</span>
+        </div>
+      </div>
+      <div class="stackcol">
+        <h3>Infrastructure &amp; DevOps</h3>
+        <div class="pills">
+          <span>Docker</span><span>Kubernetes</span><span>Kafka</span><span>AWS</span><span>GitHub Actions</span><span>CircleCI</span>
+        </div>
+      </div>
+      <div class="stackcol">
+        <h3>Architecture Patterns</h3>
+        <div class="pills">
+          <span>Microservices</span><span>Event-Driven Systems</span><span>Domain-Driven Design</span><span>Clean Architecture</span><span>Nx Monorepos</span>
+        </div>
+      </div>
+    </div>
+  </section>
 
-## 🌠 About
+  <div class="divider">✦</div>
 
-I'm a Full Stack Engineer with **5+ years** of experience building production-grade systems designed to scale. My orbit sits at the intersection of backend performance, distributed architecture, and cloud-native infrastructure — with a growing focus on **payments**, **financial ledgers**, and **blockchain systems**.
+  <section>
+    <h2>Focus Areas</h2>
+    <ul class="focus-list">
+      <li><strong>Payments &amp; Ledgers</strong> — Designing reliable, audit-ready financial systems with strong consistency guarantees</li>
+      <li><strong>Distributed Systems</strong> — Architecting services that scale horizontally and degrade gracefully under load</li>
+      <li><strong>Open Source</strong> — Maintaining libraries and tooling that improve developer experience across the ecosystem</li>
+      <li><strong>Blockchain &amp; Web3</strong> — Smart contract development in Solidity; exploring decentralised financial primitives</li>
+      <li><strong>Technical Writing</strong> — Breaking down complex systems thinking into accessible, practical content</li>
+    </ul>
+  </section>
 
-I care deeply about writing software that is not only functional, but maintainable, observable, and resilient under pressure.
+  <div class="divider">✦</div>
 
-Beyond engineering, I contribute to open-source, write about distributed systems and infrastructure on my blog, and spend my nights thinking about the universe. 🔭
+  <section>
+    <h2>Engineering Principles</h2>
+    <ul class="principles">
+      <li>Design for scale from the start — retrofitting is expensive</li>
+      <li>Build systems that fail gracefully, not catastrophically</li>
+      <li>Observability is not optional in production</li>
+      <li>Good architecture enables fast teams, not just fast software</li>
+      <li>Write code for the engineer who maintains it next</li>
+    </ul>
+  </section>
 
-<br/>
+  <div class="divider">✦</div>
 
-## 🪐 Tech Constellation
+  <section class="writing">
+    <h2>Writing &amp; Open Source</h2>
+    <p>
+      I write about distributed systems, backend architecture, and engineering trade-offs.
+      If you find something useful, a ⭐ on the repo goes a long way.
+    </p>
+    <p class="quote">Always building. Always learning. Always scaling.</p>
+  </section>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
-
-**Backend**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=elixir&logoColor=white"/>
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/NGXS-2E3192?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white"/>
-
-</td>
-<td valign="top" width="50%">
-
-**Databases & Caching**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
-**Infrastructure & DevOps**
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white"/>
-
-**Architecture Patterns**
-<br/>
-<img src="https://img.shields.io/badge/Microservices-6828B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Event--Driven-6828B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/DDD-6828B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-6828B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Nx_Monorepos-143055?style=flat-square&logo=nx&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🌌 Focus Areas
-
-```
-🪙  Payments & Ledgers      — Reliable, audit-ready financial systems with strong consistency
-🛰️  Distributed Systems     — Services that scale horizontally, degrade gracefully under load
-🌱  Open Source             — Libraries & tooling that improve the developer ecosystem
-⛓️  Blockchain & Web3       — Smart contracts in Solidity, decentralised financial primitives
-📡  Technical Writing       — Turning complex systems thinking into accessible content
-```
-
-<br/>
-
-## 🧭 Engineering Principles
-
-> - Design for scale from the start — retrofitting is expensive
-> - Build systems that fail gracefully, not catastrophically
-> - Observability is not optional in production
-> - Good architecture enables fast teams, not just fast software
-> - Write code for the engineer who maintains it next
-
-<br/>
-
-## 📊 Orbital Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iamkanishka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=D946A8&icon_color=A855F7&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkanishka&theme=tokyonight&hide_border=true&background=0d0221&ring=A855F7&fire=D946A8&currStreakLabel=D946A8" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkanishka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=D946A8&text_color=c9d1d9" width="48%"/>
+  <footer>
+    <a href="https://kanishkanaik.dev/" target="_blank" rel="noopener">kanishkanaik.dev</a>
+    <span class="dot">·</span>
+    <a href="https://github.com/iamkanishka" target="_blank" rel="noopener">@iamkanishka</a>
+  </footer>
 
 </div>
 
-<br/>
+<style>
+  :root{
+    --void:#03050d;
+    --deep:#080d1e;
+    --mid:#131b33;
+    --star:#eaf1ff;
+    --text:#f4f7ff;
+    --muted:#93a3d1;
+    --faint:#5a6a9c;
+    --link:#bcd4ff;
+    --gold:#ffcf8a;
+    --rule: rgba(188,212,255,0.18);
+  }
 
-## 🌃 Contribution Galaxy
+  *{ box-sizing:border-box; }
 
-<div align="center">
+  html,body{
+    margin:0;
+    padding:0;
+    background:var(--void);
+    color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    min-height:100%;
+  }
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkanishka&theme=react-dark&bg_color=0d0221&color=D946A8&line=A855F7&point=ffffff&area=true&area_color=6b21a8&hide_border=true" width="100%"/>
+  #sky{
+    position:fixed;
+    inset:0;
+    width:100%;
+    height:100%;
+    z-index:0;
+    background:
+      radial-gradient(ellipse 120% 60% at 50% 0%, var(--mid) 0%, var(--deep) 45%, var(--void) 100%);
+  }
 
-</div>
+  .page{
+    position:relative;
+    z-index:1;
+    max-width:760px;
+    margin:0 auto;
+    padding:96px 28px 120px;
+  }
 
-<br/>
+  .hero{ text-align:center; padding-bottom:8px; }
 
-## 🏆 Trophy Case
+  .eyebrow{
+    font-family:"Courier New",monospace;
+    letter-spacing:4px;
+    font-size:12px;
+    color:var(--faint);
+    text-transform:uppercase;
+    margin:0 0 18px;
+  }
 
-<div align="center">
+  h1{
+    font-family:Georgia,"Iowan Old Style","Times New Roman",serif;
+    font-weight:600;
+    font-size:clamp(40px,7vw,64px);
+    letter-spacing:2px;
+    margin:0 0 14px;
+    color:var(--text);
+    text-shadow:0 0 40px rgba(188,212,255,0.15);
+  }
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamkanishka&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+  .role{
+    font-family:"Courier New",monospace;
+    font-size:17px;
+    letter-spacing:1px;
+    color:var(--text);
+    margin:0 0 20px;
+  }
 
-</div>
+  .stack-line{
+    font-family:"Courier New",monospace;
+    font-size:13.5px;
+    letter-spacing:0.5px;
+    color:var(--muted);
+    margin:4px 0;
+  }
+  .stack-line.muted{ color:var(--faint); }
 
-<br/>
+  .astro{
+    font-family:"Courier New",monospace;
+    font-style:italic;
+    font-size:12.5px;
+    color:var(--faint);
+    margin:16px 0 28px;
+  }
 
-## 📈 Repo Metrics
+  .site-link{
+    display:inline-block;
+    color:var(--gold);
+    text-decoration:none;
+    font-family:"Courier New",monospace;
+    font-size:14px;
+    letter-spacing:0.5px;
+    border-bottom:1px solid rgba(255,207,138,0.4);
+    padding-bottom:2px;
+    margin-bottom:32px;
+    transition:opacity 0.2s ease, border-color 0.2s ease;
+  }
+  .site-link:hover{ opacity:0.8; border-color:var(--gold); }
 
-<div align="center">
+  .social{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:6px 4px;
+    margin-top:8px;
+  }
+  .social a{
+    color:var(--link);
+    text-decoration:none;
+    font-family:"Courier New",monospace;
+    font-size:12.5px;
+    padding:7px 13px;
+    border:1px solid var(--rule);
+    border-radius:20px;
+    transition:background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+    background:rgba(19,27,51,0.4);
+  }
+  .social a:hover{
+    color:var(--void);
+    background:var(--link);
+    border-color:var(--link);
+  }
 
-<img src="https://metrics.lecoq.io/iamkanishka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=1&base.metadata=0&config.timezone=Asia%2FKolkata&repositories.featured=true&repositories.forks=true&repositories.languages=true&repositories.stargazers=true" width="100%"/>
+  .divider{
+    text-align:center;
+    color:var(--faint);
+    font-size:14px;
+    margin:56px 0;
+    letter-spacing:8px;
+  }
 
-</div>
+  section{ margin-bottom:8px; }
 
-<br/>
+  h2{
+    font-family:Georgia,"Iowan Old Style","Times New Roman",serif;
+    font-weight:600;
+    font-size:26px;
+    letter-spacing:0.5px;
+    color:var(--text);
+    margin:0 0 20px;
+  }
 
-## ✍️ Writing & Open Source
+  h3{
+    font-family:"Courier New",monospace;
+    font-size:12px;
+    letter-spacing:1.5px;
+    text-transform:uppercase;
+    color:var(--gold);
+    margin:0 0 10px;
+    font-weight:400;
+  }
 
-I write about distributed systems, backend architecture, and engineering trade-offs. If you find something useful, a ⭐ on the repo goes a long way.
+  p{
+    font-size:15.5px;
+    line-height:1.75;
+    color:#dbe4fb;
+    margin:0 0 16px;
+  }
 
-<div align="center">
+  strong{ color:var(--text); font-weight:600; }
 
-*Always building. Always learning. Always scaling.* 🌠
+  .stackgrid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:28px 32px;
+  }
+  @media (max-width:560px){
+    .stackgrid{ grid-template-columns:1fr; }
+  }
 
-<br/><br/>
+  .pills{
+    display:flex;
+    flex-wrap:wrap;
+    gap:7px;
+  }
+  .pills span{
+    font-family:"Courier New",monospace;
+    font-size:12.5px;
+    color:var(--muted);
+    border:1px solid var(--rule);
+    border-radius:5px;
+    padding:5px 10px;
+    background:rgba(19,27,51,0.4);
+  }
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:6b21a8,100:000000&height=140&section=footer" width="100%"/>
+  .focus-list, .principles{
+    list-style:none;
+    margin:0;
+    padding:0;
+  }
+  .focus-list li, .principles li{
+    position:relative;
+    padding-left:24px;
+    margin-bottom:16px;
+    font-size:15.5px;
+    line-height:1.7;
+    color:#dbe4fb;
+  }
+  .focus-list li::before, .principles li::before{
+    content:"✦";
+    position:absolute;
+    left:0;
+    top:1px;
+    color:var(--gold);
+    font-size:12px;
+  }
 
-</div>
+  .writing .quote{
+    font-family:Georgia,"Iowan Old Style",serif;
+    font-style:italic;
+    font-size:18px;
+    color:var(--text);
+    text-align:center;
+    margin-top:28px;
+    letter-spacing:0.5px;
+  }
+
+  footer{
+    text-align:center;
+    margin-top:80px;
+    font-family:"Courier New",monospace;
+    font-size:13px;
+    color:var(--faint);
+  }
+  footer a{
+    color:var(--muted);
+    text-decoration:none;
+  }
+  footer a:hover{ color:var(--gold); }
+  footer .dot{ margin:0 10px; }
+
+  @media (prefers-reduced-motion: reduce){
+    #sky{ animation:none !important; }
+  }
+</style>
+
+<script>
+(function(){
+  var canvas = document.getElementById('sky');
+  var ctx = canvas.getContext('2d');
+  var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  var w, h, dpr;
+  function resize(){
+    dpr = Math.min(window.devicePixelRatio || 1, 2);
+    w = window.innerWidth;
+    h = document.documentElement.scrollHeight;
+    canvas.width = w * dpr;
+    canvas.height = h * dpr;
+    canvas.style.width = w + 'px';
+    canvas.style.height = h + 'px';
+    ctx.setTransform(dpr,0,0,dpr,0,0);
+    buildStars();
+  }
+
+  var stars = [];
+  function buildStars(){
+    stars = [];
+    var count = Math.floor((w*h) / 5200);
+    for(var i=0;i<count;i++){
+      stars.push({
+        x: Math.random()*w,
+        y: Math.random()*h,
+        r: Math.random()*1.4 + 0.3,
+        base: Math.random()*0.35 + 0.25,
+        amp: Math.random()*0.45 + 0.25,
+        speed: Math.random()*0.015 + 0.006,
+        phase: Math.random()*Math.PI*2
+      });
+    }
+  }
+
+  var meteors = [];
+  function spawnMeteor(){
+    var cx = w/2, cy = h/2;
+    var R = Math.hypot(w,h) * 0.62;
+    var startAngle = Math.random()*Math.PI*2;
+    var sx = cx + R*Math.cos(startAngle);
+    var sy = cy + R*Math.sin(startAngle);
+    var dirAngle = startAngle + Math.PI + (Math.random()-0.5)*1.6;
+    var speed = Math.random()*3.5 + 3.5;
+    var warm = Math.random() < 0.28;
+    meteors.push({
+      x:sx, y:sy,
+      vx: Math.cos(dirAngle)*speed,
+      vy: Math.sin(dirAngle)*speed,
+      len: Math.random()*90 + 50,
+      age:0,
+      max: Math.random()*70 + 70,
+      color: warm ? '255,214,163' : '255,255,255'
+    });
+  }
+
+  var t = 0;
+  var nextSpawn = 0;
+
+  function frame(){
+    t++;
+    ctx.clearRect(0,0,w,h);
+
+    for(var i=0;i<stars.length;i++){
+      var s = stars[i];
+      var op = reduced ? s.base + s.amp*0.5 : s.base + Math.sin(t*s.speed + s.phase) * s.amp;
+      ctx.beginPath();
+      ctx.fillStyle = 'rgba(234,241,255,'+Math.max(0,Math.min(1,op))+')';
+      ctx.arc(s.x, s.y, s.r, 0, Math.PI*2);
+      ctx.fill();
+    }
+
+    if(!reduced){
+      if(t > nextSpawn && meteors.length < 7){
+        spawnMeteor();
+        nextSpawn = t + Math.random()*70 + 30;
+      }
+
+      for(var j=meteors.length-1;j>=0;j--){
+        var m = meteors[j];
+        m.x += m.vx;
+        m.y += m.vy;
+        m.age++;
+
+        var op2 = 1;
+        if(m.age < 12) op2 = m.age/12;
+        else if(m.age > m.max-18) op2 = Math.max(0,(m.max-m.age)/18);
+
+        var speedMag = Math.hypot(m.vx,m.vy);
+        var tx = m.x - (m.vx/speedMag)*m.len;
+        var ty = m.y - (m.vy/speedMag)*m.len;
+
+        var grad = ctx.createLinearGradient(m.x,m.y,tx,ty);
+        grad.addColorStop(0, 'rgba('+m.color+','+op2+')');
+        grad.addColorStop(1, 'rgba('+m.color+',0)');
+
+        ctx.strokeStyle = grad;
+        ctx.lineWidth = 1.4;
+        ctx.lineCap = 'round';
+        ctx.beginPath();
+        ctx.moveTo(m.x,m.y);
+        ctx.lineTo(tx,ty);
+        ctx.stroke();
+
+        ctx.beginPath();
+        ctx.fillStyle = 'rgba('+m.color+','+op2+')';
+        ctx.arc(m.x,m.y,1.3,0,Math.PI*2);
+        ctx.fill();
+
+        if(m.age > m.max || m.x < -300 || m.x > w+300 || m.y < -300 || m.y > h+300){
+          meteors.splice(j,1);
+        }
+      }
+    }
+
+    requestAnimationFrame(frame);
+  }
+
+  window.addEventListener('resize', resize);
+  resize();
+  requestAnimationFrame(frame);
+})();
+</script>
