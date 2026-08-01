@@ -3,7 +3,7 @@
 <div class="page">
 
   <header class="hero">
-    <p class="eyebrow">✦ profile</p>
+  
     <h1>Kanishka Naik</h1>
     <p class="role">Software Engineer &amp; Open-Source Maintainer</p>
     <p class="stack-line">JS/TS · Elixir · Go · Solidity</p>
