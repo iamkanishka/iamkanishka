@@ -21,6 +21,9 @@
   <a href="https://mastodon.social/@kanishkanaik"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white" /></a>
   <a target="_blank" href="https://www.npmjs.com/~atomlessmind"><img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
   <a target="_blank" href="https://hex.pm/users/kanishkanaik"><img src="https://img.shields.io/badge/Hex-6828B2?style=flat-square&logo=elixir&logoColor=white" /></a>
+  <a target="_blank" href="https://github.com/iamkanishka/go-packages?tab=readme-ov-file">
+  <img src="https://img.shields.io/badge/Go%20Packages-00ADD8?style=flat-square&logo=go&logoColor=white" />
+</a>
 </p>
 
 ---
