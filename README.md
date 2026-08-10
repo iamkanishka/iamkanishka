@@ -30,7 +30,7 @@
 
 ## About
 
-I'm a Full Stack Engineer with 5+ years of experience building production-grade systems designed to scale. My work sits at the intersection of backend performance, distributed architecture, and cloud-native infrastructure — with a growing focus on **payments**, **financial ledgers**, and **blockchain systems**.
+I'm a Full Stack Engineer with 6+ years of experience building production-grade systems designed to scale. My work sits at the intersection of backend performance, distributed architecture, and cloud-native infrastructure — with a growing focus on **payments**, **financial ledgers**, and **blockchain systems**.
 
 I care deeply about writing software that is not only functional, but maintainable, observable, and resilient under pressure.
 
